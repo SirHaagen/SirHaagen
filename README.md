@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @SirHaagen and i am new here mate!!!
-- 👀 I’m interested in learning everyday to become a gr8 fullstack developer and maybe somenday get an excellent :heart_eyes: job!
-- 🌱 I’m currently learning Tailwind CSS and PHP
+- 👋 Hi, I’m @SirHaagen!!!
+- 👀 I’m interested in learning everyday :heart_eyes:
 - 💞️ I’m looking to collaborate on anything I can
